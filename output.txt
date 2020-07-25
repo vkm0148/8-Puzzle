@@ -1,0 +1,1429 @@
+enter depth
+initial matrix : 
+0 2 3 
+1 5 6 
+7 8 4 
+solution with misplaced tiles and depth = 1
+running....
+0 2 3 
+1 5 6 
+7 8 4 
+
+1 2 3 
+0 5 6 
+7 8 4 
+
+1 2 3 
+7 5 6 
+0 8 4 
+
+1 2 3 
+7 5 6 
+8 0 4 
+
+1 2 3 
+7 5 6 
+8 4 0 
+
+1 2 3 
+7 5 0 
+8 4 6 
+
+1 2 3 
+7 0 5 
+8 4 6 
+
+1 2 3 
+7 4 5 
+8 0 6 
+
+1 2 3 
+7 4 5 
+0 8 6 
+
+1 2 3 
+0 4 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 88
+number of nodes visited : 334
+path_length : 13
+solution with misplaced tiles and depth = 5
+running....
+0 2 3 
+1 5 6 
+7 8 4 
+
+1 2 3 
+0 5 6 
+7 8 4 
+
+1 2 3 
+7 5 6 
+0 8 4 
+
+1 2 3 
+7 5 6 
+8 0 4 
+
+1 2 3 
+7 5 6 
+8 4 0 
+
+1 2 3 
+7 5 0 
+8 4 6 
+
+1 2 3 
+7 0 5 
+8 4 6 
+
+1 2 3 
+7 4 5 
+8 0 6 
+
+1 2 3 
+7 4 5 
+0 8 6 
+
+1 2 3 
+0 4 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 996
+number of nodes visited : 1384
+path_length : 13
+solution with manhattan and depth = 1
+running....
+0 2 3 
+1 5 6 
+7 8 4 
+
+1 2 3 
+0 5 6 
+7 8 4 
+
+1 2 3 
+7 5 6 
+0 8 4 
+
+1 2 3 
+7 5 6 
+8 0 4 
+
+1 2 3 
+7 5 6 
+8 4 0 
+
+1 2 3 
+7 5 0 
+8 4 6 
+
+1 2 3 
+7 0 5 
+8 4 6 
+
+1 2 3 
+7 4 5 
+8 0 6 
+
+1 2 3 
+7 4 5 
+0 8 6 
+
+1 2 3 
+0 4 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 48
+number of nodes visited : 168
+path_length : 13
+solution with manhattan and depth = 5
+running....
+0 2 3 
+1 5 6 
+7 8 4 
+
+1 2 3 
+0 5 6 
+7 8 4 
+
+1 2 3 
+7 5 6 
+0 8 4 
+
+1 2 3 
+7 5 6 
+8 0 4 
+
+1 2 3 
+7 5 6 
+8 4 0 
+
+1 2 3 
+7 5 0 
+8 4 6 
+
+1 2 3 
+7 0 5 
+8 4 6 
+
+1 2 3 
+7 4 5 
+8 0 6 
+
+1 2 3 
+7 4 5 
+0 8 6 
+
+1 2 3 
+0 4 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 520
+number of nodes visited : 786
+path_length : 13
+--------------------------------
+
+initial matrix : 
+1 2 3 
+4 5 6 
+0 7 8 
+solution with misplaced tiles and depth = 1
+running....
+1 2 3 
+4 5 6 
+0 7 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 4
+number of nodes visited : 6
+path_length : 3
+solution with misplaced tiles and depth = 5
+running....
+1 2 3 
+4 5 6 
+0 7 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 70
+number of nodes visited : 222
+path_length : 3
+solution with manhattan and depth = 1
+running....
+1 2 3 
+4 5 6 
+0 7 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 4
+number of nodes visited : 6
+path_length : 3
+solution with manhattan and depth = 5
+running....
+1 2 3 
+4 5 6 
+0 7 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 70
+number of nodes visited : 222
+path_length : 3
+--------------------------------
+
+initial matrix : 
+1 2 0 
+4 6 3 
+7 5 8 
+solution with misplaced tiles and depth = 1
+running....
+1 2 0 
+4 6 3 
+7 5 8 
+
+1 2 3 
+4 6 0 
+7 5 8 
+
+1 2 3 
+4 0 6 
+7 5 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 7
+number of nodes visited : 13
+path_length : 5
+solution with misplaced tiles and depth = 5
+running....
+1 2 0 
+4 6 3 
+7 5 8 
+
+1 2 3 
+4 6 0 
+7 5 8 
+
+1 2 3 
+4 0 6 
+7 5 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 106
+number of nodes visited : 262
+path_length : 5
+solution with manhattan and depth = 1
+running....
+1 2 0 
+4 6 3 
+7 5 8 
+
+1 2 3 
+4 6 0 
+7 5 8 
+
+1 2 3 
+4 0 6 
+7 5 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 7
+number of nodes visited : 13
+path_length : 5
+solution with manhattan and depth = 5
+running....
+1 2 0 
+4 6 3 
+7 5 8 
+
+1 2 3 
+4 6 0 
+7 5 8 
+
+1 2 3 
+4 0 6 
+7 5 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 106
+number of nodes visited : 262
+path_length : 5
+--------------------------------
+
+initial matrix : 
+1 0 3 
+4 2 5 
+7 8 6 
+solution with misplaced tiles and depth = 1
+running....
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 7
+number of nodes visited : 11
+path_length : 4
+solution with misplaced tiles and depth = 5
+running....
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 83
+number of nodes visited : 316
+path_length : 4
+solution with manhattan and depth = 1
+running....
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 7
+number of nodes visited : 11
+path_length : 4
+solution with manhattan and depth = 5
+running....
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 83
+number of nodes visited : 316
+path_length : 4
+--------------------------------
+
+initial matrix : 
+0 1 2 
+4 5 3 
+7 8 6 
+solution with misplaced tiles and depth = 1
+running....
+0 1 2 
+4 5 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 5
+number of nodes visited : 11
+path_length : 5
+solution with misplaced tiles and depth = 5
+running....
+0 1 2 
+4 5 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 97
+number of nodes visited : 253
+path_length : 5
+solution with manhattan and depth = 1
+running....
+0 1 2 
+4 5 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 5
+number of nodes visited : 11
+path_length : 5
+solution with manhattan and depth = 5
+running....
+0 1 2 
+4 5 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 97
+number of nodes visited : 253
+path_length : 5
+--------------------------------
+
+initial matrix : 
+1 5 0 
+8 3 2 
+4 7 6 
+solution with misplaced tiles and depth = 1
+running....
+1 5 0 
+8 3 2 
+4 7 6 
+
+1 5 2 
+8 3 0 
+4 7 6 
+
+1 5 2 
+8 0 3 
+4 7 6 
+
+1 5 2 
+0 8 3 
+4 7 6 
+
+1 5 2 
+4 8 3 
+0 7 6 
+
+1 5 2 
+4 8 3 
+7 0 6 
+
+1 5 2 
+4 0 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 29
+number of nodes visited : 91
+path_length : 11
+solution with misplaced tiles and depth = 5
+running....
+1 5 0 
+8 3 2 
+4 7 6 
+
+1 5 2 
+8 3 0 
+4 7 6 
+
+1 5 2 
+8 0 3 
+4 7 6 
+
+1 5 2 
+0 8 3 
+4 7 6 
+
+1 5 2 
+4 8 3 
+0 7 6 
+
+1 5 2 
+4 8 3 
+7 0 6 
+
+1 5 2 
+4 0 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 266
+number of nodes visited : 563
+path_length : 11
+solution with manhattan and depth = 1
+running....
+1 5 0 
+8 3 2 
+4 7 6 
+
+1 5 2 
+8 3 0 
+4 7 6 
+
+1 5 2 
+8 0 3 
+4 7 6 
+
+1 5 2 
+0 8 3 
+4 7 6 
+
+1 5 2 
+4 8 3 
+0 7 6 
+
+1 5 2 
+4 8 3 
+7 0 6 
+
+1 5 2 
+4 0 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 14
+number of nodes visited : 42
+path_length : 11
+solution with manhattan and depth = 5
+running....
+1 5 0 
+8 3 2 
+4 7 6 
+
+1 5 2 
+8 3 0 
+4 7 6 
+
+1 5 2 
+8 0 3 
+4 7 6 
+
+1 5 2 
+0 8 3 
+4 7 6 
+
+1 5 2 
+4 8 3 
+0 7 6 
+
+1 5 2 
+4 8 3 
+7 0 6 
+
+1 5 2 
+4 0 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 160
+number of nodes visited : 557
+path_length : 11
+--------------------------------
+
+initial matrix : 
+2 3 4 
+5 0 1 
+7 8 6 
+solution with misplaced tiles and depth = 1
+running....
+2 3 4 
+5 0 1 
+7 8 6 
+
+2 0 4 
+5 3 1 
+7 8 6 
+
+2 4 0 
+5 3 1 
+7 8 6 
+
+2 4 1 
+5 3 0 
+7 8 6 
+
+2 4 1 
+5 0 3 
+7 8 6 
+
+2 4 1 
+0 5 3 
+7 8 6 
+
+0 4 1 
+2 5 3 
+7 8 6 
+
+4 0 1 
+2 5 3 
+7 8 6 
+
+4 1 0 
+2 5 3 
+7 8 6 
+
+4 1 3 
+2 5 0 
+7 8 6 
+
+4 1 3 
+2 0 5 
+7 8 6 
+
+4 1 3 
+0 2 5 
+7 8 6 
+
+0 1 3 
+4 2 5 
+7 8 6 
+
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 391
+number of nodes visited : 1577
+path_length : 17
+solution with misplaced tiles and depth = 5
+running....
+2 3 4 
+5 0 1 
+7 8 6 
+
+2 3 4 
+5 1 0 
+7 8 6 
+
+2 3 0 
+5 1 4 
+7 8 6 
+
+2 0 3 
+5 1 4 
+7 8 6 
+
+0 2 3 
+5 1 4 
+7 8 6 
+
+5 2 3 
+0 1 4 
+7 8 6 
+
+5 2 3 
+1 0 4 
+7 8 6 
+
+5 2 3 
+1 4 0 
+7 8 6 
+
+5 2 0 
+1 4 3 
+7 8 6 
+
+5 0 2 
+1 4 3 
+7 8 6 
+
+0 5 2 
+1 4 3 
+7 8 6 
+
+1 5 2 
+0 4 3 
+7 8 6 
+
+1 5 2 
+4 0 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 6406
+number of nodes visited : 8471
+path_length : 17
+solution with manhattan and depth = 1
+running....
+2 3 4 
+5 0 1 
+7 8 6 
+
+2 0 4 
+5 3 1 
+7 8 6 
+
+2 4 0 
+5 3 1 
+7 8 6 
+
+2 4 1 
+5 3 0 
+7 8 6 
+
+2 4 1 
+5 0 3 
+7 8 6 
+
+2 4 1 
+0 5 3 
+7 8 6 
+
+0 4 1 
+2 5 3 
+7 8 6 
+
+4 0 1 
+2 5 3 
+7 8 6 
+
+4 1 0 
+2 5 3 
+7 8 6 
+
+4 1 3 
+2 5 0 
+7 8 6 
+
+4 1 3 
+2 0 5 
+7 8 6 
+
+4 1 3 
+0 2 5 
+7 8 6 
+
+0 1 3 
+4 2 5 
+7 8 6 
+
+1 0 3 
+4 2 5 
+7 8 6 
+
+1 2 3 
+4 0 5 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 100
+number of nodes visited : 398
+path_length : 17
+solution with manhattan and depth = 5
+running....
+2 3 4 
+5 0 1 
+7 8 6 
+
+2 3 4 
+5 1 0 
+7 8 6 
+
+2 3 0 
+5 1 4 
+7 8 6 
+
+2 0 3 
+5 1 4 
+7 8 6 
+
+0 2 3 
+5 1 4 
+7 8 6 
+
+5 2 3 
+0 1 4 
+7 8 6 
+
+5 2 3 
+1 0 4 
+7 8 6 
+
+5 2 3 
+1 4 0 
+7 8 6 
+
+5 2 0 
+1 4 3 
+7 8 6 
+
+5 0 2 
+1 4 3 
+7 8 6 
+
+0 5 2 
+1 4 3 
+7 8 6 
+
+1 5 2 
+0 4 3 
+7 8 6 
+
+1 5 2 
+4 0 3 
+7 8 6 
+
+1 0 2 
+4 5 3 
+7 8 6 
+
+1 2 0 
+4 5 3 
+7 8 6 
+
+1 2 3 
+4 5 0 
+7 8 6 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 996
+number of nodes visited : 1733
+path_length : 17
+--------------------------------
+
+initial matrix : 
+1 2 3 
+4 5 6 
+7 8 0 
+solution with misplaced tiles and depth = 1
+running....
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 0
+number of nodes visited : 0
+path_length : 1
+solution with misplaced tiles and depth = 5
+running....
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 0
+number of nodes visited : 0
+path_length : 1
+solution with manhattan and depth = 1
+running....
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 0
+number of nodes visited : 0
+path_length : 1
+solution with manhattan and depth = 5
+running....
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 0
+number of nodes visited : 0
+path_length : 1
+--------------------------------
+
+initial matrix : 
+1 2 3 
+4 5 6 
+7 0 8 
+solution with misplaced tiles and depth = 1
+running....
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 4
+number of nodes visited : 4
+path_length : 2
+solution with misplaced tiles and depth = 5
+running....
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 61
+number of nodes visited : 292
+path_length : 2
+solution with manhattan and depth = 1
+running....
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 4
+number of nodes visited : 4
+path_length : 2
+solution with manhattan and depth = 5
+running....
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 61
+number of nodes visited : 292
+path_length : 2
+--------------------------------
+
+initial matrix : 
+1 0 3 
+4 5 6 
+7 8 2 
+solution with misplaced tiles and depth = 1
+running....
+1 0 3 
+4 5 6 
+7 8 2 
+
+1 3 0 
+4 5 6 
+7 8 2 
+
+1 3 6 
+4 5 0 
+7 8 2 
+
+1 3 6 
+4 5 2 
+7 8 0 
+
+1 3 6 
+4 5 2 
+7 0 8 
+
+1 3 6 
+4 0 2 
+7 5 8 
+
+1 3 6 
+4 2 0 
+7 5 8 
+
+1 3 0 
+4 2 6 
+7 5 8 
+
+1 0 3 
+4 2 6 
+7 5 8 
+
+1 2 3 
+4 0 6 
+7 5 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 60
+number of nodes visited : 228
+path_length : 12
+solution with misplaced tiles and depth = 5
+running....
+1 0 3 
+4 5 6 
+7 8 2 
+
+1 3 0 
+4 5 6 
+7 8 2 
+
+1 3 6 
+4 5 0 
+7 8 2 
+
+1 3 6 
+4 5 2 
+7 8 0 
+
+1 3 6 
+4 5 2 
+7 0 8 
+
+1 3 6 
+4 0 2 
+7 5 8 
+
+1 3 6 
+4 2 0 
+7 5 8 
+
+1 3 0 
+4 2 6 
+7 5 8 
+
+1 0 3 
+4 2 6 
+7 5 8 
+
+1 2 3 
+4 0 6 
+7 5 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 846
+number of nodes visited : 1363
+path_length : 12
+solution with manhattan and depth = 1
+running....
+1 0 3 
+4 5 6 
+7 8 2 
+
+1 3 0 
+4 5 6 
+7 8 2 
+
+1 3 6 
+4 5 0 
+7 8 2 
+
+1 3 6 
+4 5 2 
+7 8 0 
+
+1 3 6 
+4 5 2 
+7 0 8 
+
+1 3 6 
+4 0 2 
+7 5 8 
+
+1 3 6 
+4 2 0 
+7 5 8 
+
+1 3 0 
+4 2 6 
+7 5 8 
+
+1 0 3 
+4 2 6 
+7 5 8 
+
+1 2 3 
+4 0 6 
+7 5 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 43
+number of nodes visited : 147
+path_length : 12
+solution with manhattan and depth = 5
+running....
+1 0 3 
+4 5 6 
+7 8 2 
+
+1 3 0 
+4 5 6 
+7 8 2 
+
+1 3 6 
+4 5 0 
+7 8 2 
+
+1 3 6 
+4 5 2 
+7 8 0 
+
+1 3 6 
+4 5 2 
+7 0 8 
+
+1 3 6 
+4 0 2 
+7 5 8 
+
+1 3 6 
+4 2 0 
+7 5 8 
+
+1 3 0 
+4 2 6 
+7 5 8 
+
+1 0 3 
+4 2 6 
+7 5 8 
+
+1 2 3 
+4 0 6 
+7 5 8 
+
+1 2 3 
+4 5 6 
+7 0 8 
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+max fringe : 520
+number of nodes visited : 1060
+path_length : 12
+--------------------------------
+
